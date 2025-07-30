@@ -1,8 +1,6 @@
 # 💫 About Me:
 ## Hi welcome to my world, keep learning and try level up every time 👋 🔥🔥🔥
 
-![Header](./github-header-image.png)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryrlearn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ryrlearn) 
 
